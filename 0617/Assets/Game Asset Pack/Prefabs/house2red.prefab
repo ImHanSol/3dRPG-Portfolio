@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1149789916737404
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4613482940108794}
+  - component: {fileID: 33813257684389142}
+  - component: {fileID: 23007074621931934}
+  m_Layer: 0
+  m_Name: house2red
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4613482940108794
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1149789916737404}
+  m_LocalRotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &33813257684389142
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1149789916737404}
+  m_Mesh: {fileID: 7486933056029657753, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+--- !u!23 &23007074621931934
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1149789916737404}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2700644102704913314, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: 2331302373793462246, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: 836903446183885496, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: -7228200626895344023, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: 4041404155841744614, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: 4194762295495059124, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: -3081499549231190900, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: -5147226281765884144, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: -7664171821971794494, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: 5514226608699345078, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: -4394917222147569425, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: -6860520453633604045, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: -2589079046935174483, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: -7881807071584781626, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: 3685016034205761543, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: 5976841042964900602, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: -5345517038779833806, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: 1302404221676006960, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: -522329640158369378, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: -685448302780309235, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  - {fileID: -8063489622943213029, guid: 7dd20a00c0f41ba4b8861fdf04aa9c06, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
